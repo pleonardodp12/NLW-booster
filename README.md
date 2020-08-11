@@ -67,7 +67,7 @@ Podemos considerar este projeto como sendo divido em três partes:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
+$ git clone https://github.com/pleonardodp12/Ecoleta
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Ecoleta
@@ -88,7 +88,7 @@ $ npm run dev:server
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/leon-carvalho/Ecoleta
+$ git clone https://github.com/pleonardodp12/Ecoleta
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd Ecoleta
